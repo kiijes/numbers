@@ -1,0 +1,18 @@
+{
+  "name": "number_game",
+  "version": "1.0.0",
+  "description": "Number guessing game using Socket.io, Express and NodeJS.",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.16.4",
+    "moniker": "^0.1.2",
+    "socket.io": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jesse Kiilamaa",
+  "license": "ISC"
+}
